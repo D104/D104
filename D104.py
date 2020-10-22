@@ -55,7 +55,7 @@ def Banner():
 	print("      "+Bann1+colored("D104 - Hack The Panel From D104", "green"))
 	print("      "+Bann1+"Version :"+colored("0.10.2", "red"))
 	print("      "+Bann1+"Codename :"+colored("D104", "green"))
-	print("      "+Bann1+"Latest update :"+"["+colored("10.09.2020", "red")+"]")
+	print("      "+Bann1+"Latest update :"+"["+colored("22.10.2020 15:40", "red")+"]")
 	print("")
     # ---
 	color3 = choice(color)
