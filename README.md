@@ -1,16 +1,18 @@
-### Hi there 👋
+# D104
+D104 - Hack The Panel From bot_dinis
 
-<!--
-**D104/D104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Installation:
+1) pkg update -y && pkg upgrade -y
+2) pkg install git -y
+3) pkg install python -y
+4) pip install --upgrade pip
+5) pip install colored, requests, argparse, colorama, termcolor
+6) git clone https://github.com/D104/D104
+7) cd D104
+8) python D104.py
 
-Here are some ideas to get you started:
+# Any questions? Write to me!
+Telegram - https://t.me/bot_dinis
+VK - UKNOWN
+Email - D104@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
