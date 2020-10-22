@@ -388,9 +388,9 @@ def ngrok():
 
 def Sup():
     print("")
-    qiwi = colored("QIWI Wallet", "yellow")
-    sber = colored("Сбербанк", "green")
-    yan = colored("YandexMoney", "yellow")
+    qiwi = colored("ПриватБанк (Карта)", "yellow")
+    sber = colored("ПриватБанк (Карта)", "green")
+    yan = colored("ПриватБанк (Карта)", "yellow")
     v1 = colored("[1]", "cyan")
     v2 = colored("[2]", "cyan")
     v3 = colored("[3]", "cyan")
